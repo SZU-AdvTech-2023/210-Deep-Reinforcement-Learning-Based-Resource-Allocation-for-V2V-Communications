@@ -1,0 +1,9 @@
+@article{REPO210,
+    author = "Ye, Hao and Li, Geoffrey Ye and Juang, Biing-Hwang Fred",
+    journal = "IEEE Transactions on Vehicular Technology",
+    number = "4",
+    pages = "3163-3173",
+    title = "{Deep Reinforcement Learning Based Resource Allocation for V2V Communications}",
+    volume = "68",
+    year = "2019"
+}
